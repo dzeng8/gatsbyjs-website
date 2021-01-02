@@ -1,0 +1,35 @@
+html {
+    background-color: lavenderblush;
+}
+
+a {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+}
+
+p {
+    font-size: 150%
+}
+
+footer {
+    font-size: 50%;
+    text-align: center;
+}
+
+input, label {
+    display: block;
+    width: 50%;
+    padding: 10px;
+}
+
+button {
+    margin: 10px;
+}
